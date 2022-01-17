@@ -1,2 +1,2 @@
-# MorraGame
-Implementation of a game of Morra (See wiki) for use on the ETH blockchain
+# Blockchain technology and distributed ledgers
+This repo provides the sample answers from a course called Blockchains and Distributed Ledgers (BDL) in the university of edinburgh.
